@@ -1,0 +1,497 @@
+<mxfile>
+  <diagram id="Ad7PGhJK0NULTxA21Bp5" name="Page-1">
+    <mxGraphModel dx="2137" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="print Enter your name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="90" width="141.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Input = name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340.38" y="150" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="143" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="7" target="141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="print Hello, (name)!&lt;div&gt;Current Score = 0 Choose your Role&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="200" width="257.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="196" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="11" target="50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;print Your role is: career&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Let&#39;s play Rock–Paper–Scissors!&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="877" width="227.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="50" target="52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="136" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="50" target="135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="1861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="while" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="951" width="92.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="52" target="54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1254" y="1041" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60" value="" style="edgeStyle=elbowEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52" target="59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="979" y="1051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="1011" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="54" target="56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="input equipment" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1184" y="1081" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="117" style="edgeStyle=elbowEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1243.1727272727271" y="1281" as="sourcePoint" />
+            <mxPoint x="1214" y="1661" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1243" y="1481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56" value="equipment -1&lt;div&gt;score +100&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1184" y="1221" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="user use equipment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="1011" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1019" y="1121" as="sourcePoint" />
+            <mxPoint x="1069" y="1171" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1069" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="59" target="68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="814" y="1121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="939" y="1081" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="63" target="66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63" value="print&amp;nbsp;There is a draw (youchoose)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1171" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="you choose = computer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="1091" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="111" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="984" y="1581" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1074" y="1431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66" value="score +50" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="1261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="914" y="1241" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="914" y="1191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79" value="" style="edgeStyle=elbowEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790.2499999999998" y="1191" as="sourcePoint" />
+            <mxPoint x="662.75" y="1231" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="659" y="1201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.5" y="1151" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="else" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="869" y="1091" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="72" target="76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="print&amp;nbsp;Well done. The computer chose (computer) and failed&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="838.06" y="1241" width="148.13" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="you win" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="1161" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="110" style="edgeStyle=elbowEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="923.0603703703703" y="1381.0000000000002" as="sourcePoint" />
+            <mxPoint x="922.6950000000068" y="1541.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="924" y="1471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76" value="score +100" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="874" y="1351" width="98.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="" style="edgeStyle=elbowEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="704" y="1261" as="sourcePoint" />
+            <mxPoint x="754" y="1301" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="754" y="1281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="103" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="78" target="102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="1261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="78" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="1221" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="else" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="719" y="1161" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="98" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="90" target="97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="score +0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1301" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="94" value="you lose" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="699" y="1231" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="105" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="1471.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="754" y="1461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;print&amp;nbsp;Sorry, but the computer chose (computerchoose)&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1361" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="104" style="edgeStyle=elbowEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="1471" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="534" y="1461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="102" value="print Invalid input!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="472.75" y="1331" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="109" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="107" target="108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="1541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="107" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1461" width="18.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="112" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="964" y="1581" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="854" y="1581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="108" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="844" y="1531" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="116" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="113" target="115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="1661" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="113" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="964" y="1571" width="22.19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="119" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="115" target="118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="115" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1184" y="1651" width="22.19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="124" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="118" target="125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="1801" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="1761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="128" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" target="127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1154" y="1761.0049999999997" as="sourcePoint" />
+            <mxPoint x="1154.0950000000003" y="1861.1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="1781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="118" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155.095" y="1721" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="129" style="edgeStyle=elbowEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="125" target="127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1325" y="1851" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="125" value="print score" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1269.99" y="1801" width="110.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="130" style="edgeStyle=elbowEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="127" target="50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1011" as="targetPoint" />
+            <mxPoint x="1190" y="1981" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="127" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1841" width="16.19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="132" value="input = !rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1235.1" y="1731" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="138" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.1300000000001" y="1988.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="135" value="input = !exit" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="337.75" y="1881" width="104.75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="216" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="141" target="215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="141" value="print Choose you Role ( sheriff / witch / knight)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="274.38" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="168" value="else" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="999" y="1022" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="169" value="else" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="569" y="1231" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170" value="true" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="488.12" y="942" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="172" value="false" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="1031" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="174" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271" y="485" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="271" y="444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="212" style="edgeStyle=elbowEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="175" target="185">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="175" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.38" y="404" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="178" value="input = role" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="426" y="412" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="179" value="else" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="283.5" y="412" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="214" style="edgeStyle=elbowEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="182" target="141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="600" as="sourcePoint" />
+            <mxPoint x="171.32999999999998" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="182" value="&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;print Invalid role, choose again!&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="484" width="213.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="183" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="185" target="186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="184" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="185" target="189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="185" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589.125" y="498" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="199" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="186" target="198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="524" y="727" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="186" value="prtint Your equipment is &quot;Gun&quot; remaining: (equipment)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="598" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="187" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="671" y="668" as="targetPoint" />
+            <mxPoint x="749.0549999999998" y="608" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="671" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="188" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="901" y="665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="901" y="607" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="189" value="if" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="749.055" y="567" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="203" style="edgeStyle=elbowEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="201">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.78" y="697.9999999999998" as="sourcePoint" />
+            <mxPoint x="707.51" y="772" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="190" value="prtint Your equipment is &quot;Magic&quot; remaining: (equipment)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="571.54" y="668" width="199.46" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="202" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="191" target="201">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="191" value="prtint Your equipment is &quot;Sword&quot; remaining: (equipment)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="668" width="196.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="192" value="else" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="705" y="508" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="193" value="equipment = sheriff" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="508" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="194" value="equipment = witch" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="578" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="195" value="else" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="827.19" y="578" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="206" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="198" target="205">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="854" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="198" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="659" y="797" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="204" style="edgeStyle=elbowEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="201" target="198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="784" y="827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="201" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="769" y="757" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="209" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="205" target="11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="205" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="834" width="32.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="210" value="" style="edgeStyle=elbowEdgeStyle;html=1;" edge="1" parent="1" source="135" target="137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1926" as="sourcePoint" />
+            <mxPoint x="390.1300000000001" y="1988.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="137" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.19" y="1947" width="80" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="217" style="edgeStyle=elbowEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="215" target="175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="215" value="input role" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="347.19" y="360" width="104.38" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
